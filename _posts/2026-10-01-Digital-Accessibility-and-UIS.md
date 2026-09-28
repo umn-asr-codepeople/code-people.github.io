@@ -15,7 +15,7 @@ recording_url:
 ## Agenda:
 
 - 9:30 - 9:35 Introductions
-- 9:35 - 10:10 - Beyond the Scan: Finding the last 70% with manual testing for digital accessibility. Luke Kudryashov and Neal Neal Sorenson from the Office of Digital Accessibility (ODA)
+- 9:35 - 10:10 - Beyond the Scan: Finding the last 70% with manual testing for digital accessibility. Luke Kudryashov and Neal Sorenson from the Office of Digital Accessibility (ODA)
 - 10:10 - 10:25 - Application Security at the U. Dan Owens and Tong Xiong from the University Information Security (UIS)
 - 10:25 - 11:00 - Lightning talks
 
