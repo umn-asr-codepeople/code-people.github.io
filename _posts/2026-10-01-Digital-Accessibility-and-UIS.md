@@ -3,7 +3,7 @@ layout: post
 title: "Digital Accessibility and UIS Team"
 date: 2026-10-01  09:30
 categories: upcoming
-recording_url: 
+recording_url: https://mediaspace.umn.edu/media/t/1_vruhak21
 ---
 
 ## Meta:
