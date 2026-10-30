@@ -15,7 +15,7 @@ recording_url:
 ## Agenda:
 
 - 9:30 - 9:35 Introductions
-- 9:35 - 10:10 - Building a web app with AI (Tonu)
+- 9:35 - 10:10 - Building a web app with AI - Tonu Mikk (Office for Equity and Diversity)
 - 10:25 - 11:00 - Community AI Lightning talks
   - "AI in our Finance Workflows" - Todd Bedner (Global Programs and Strategy Alliance)
   - "Lovable X Tableau" - Alisa Dean (CLA)
@@ -24,3 +24,4 @@ recording_url:
   - "Privacy-First: AI-Generated Apps Scripts for Analyzing Student Work" - Joe Moses, PhD (Department of Writing Studies)
 
 ## Talk descriptions
+Building a web app with AI - Tonu shares how he built and hosted a web form that makes API calls and populates calendars with class meeting times. Talk covers working with Cursor and GitHub Copilot desktop clients, hiding API credentials from the browser, making use of aigateway.umn.edu, and hosting the web app on RHEL9 with Apache web server.
