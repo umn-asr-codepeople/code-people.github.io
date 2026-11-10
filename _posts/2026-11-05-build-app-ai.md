@@ -2,8 +2,8 @@
 layout: post
 title: "Building a web app with AI and AI Lightning Talks"
 date: 2026-11-05  09:30
-categories: upcoming
-recording_url:
+categories: meetings
+recording_url: https://mediaspace.umn.edu/media/t/1_mm98l41i
 ---
 
 ## Meta:
